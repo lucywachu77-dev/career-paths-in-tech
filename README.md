@@ -32,16 +32,20 @@ A **Software Developer** designs, builds, tests, and maintains software applicat
 - Collaborating with designers and other developers  
 - Improving system performance  
 
-### Skills Required
-- Programming languages (Python, Java, JavaScript)  
-- Problem-solving and logical thinking  
-- Version control systems (Git & GitHub)  
-- Understanding of databases  
 
 ### Future Trends
 - AI-assisted coding tools  
 - Growth in cloud-native development and microservices  
+---
 
+## Career Path Comparison
+
+| Career | Main Focus | Key Skills | Career Growth |
+|--------|------------|------------|---------------|
+| Software Developer | Building applications | Programming, Problem-solving | Developer → Architect → Engineering Manager |
+| Data Scientist | Analyzing data for insights | Statistics, Machine Learning | Data Analyst → Senior Data Scientist → Chief Data Officer |
+| UX Designer | Improving user experience | Design Thinking, Prototyping | Junior UX → UX Lead |
+| Cybersecurity Analyst | Protecting systems & data | Networking, Security Tools | Security Analyst → CISO |
 ### Career Growth
 Junior Developer → Senior Developer → Software Architect → Engineering Manager  
 
